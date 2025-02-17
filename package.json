@@ -1,0 +1,25 @@
+{
+  "name": "interation-navagateur-crud-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/1306BENIE/interation-navagateur-CRUD-nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/1306BENIE/interation-navagateur-CRUD-nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1306BENIE/interation-navagateur-CRUD-nodejs.git"
+  },
+  "license": "ISC",
+  "author": "BENIE SYLVESTRE",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "node": "^23.8.0",
+    "nodemon": "^3.1.9"
+  }
+}
